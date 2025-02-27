@@ -1,2 +1,1 @@
-# Machine-Learning-project
-machine learning project that includes data preprocessing, model training, and evaluation. It contains 26 code cells implementing key ML steps and 17 markdown cells documenting the process
+This project is a machine learning classification model built to predict whether an individual's annual income exceeds $50,000 based on demographic and employment-related attributes. It utilizes the Adult Income Dataset from UCI, which includes features such as age, education level, occupation, and work hours.
